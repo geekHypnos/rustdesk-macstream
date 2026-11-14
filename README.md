@@ -23,6 +23,8 @@
 
 - [改造方案与验收计划](docs/design.md)
 - [隐私与安全边界](SECURITY.md)
+- [P0 实现前核查（进行中，未通过验收）](docs/p0-preflight.md)
+- [双 Mac 使用与排障指南（P1 草案）](docs/operations.md)
 
 ## 上游与许可
 
